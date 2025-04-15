@@ -1,143 +1,95 @@
+# 🌀 Awesome Generative Explainability
 
-# 🌀 Awesome Diffusion Explainability
-
-This repository contains frontier research on **explainable generative models**, especially **diffusion-based models**. 
-As generative AI advances rapidly, understanding *how* and *why* these models behave the way they do is essential for transparency, trust, and control.
-
-> 📈 From concept bottlenecks and latent directions to classifier insights and temporal interventions, this curated collection explores the frontier of interpretable generative AI.
+This repository contains frontier research on **explainable generative models**, with a strong emphasis on **diffusion-based models**. 
+As generative AI continues to evolve, understanding *how* and *why* these models generate outputs is critical for building transparent, safe, and controllable AI systems.
 
 ---
 
-## 🧠 Concept-Based Interpretability & Control
+## 2025
 
-**Interpretable Generative Models through Post-hoc Concept Bottlenecks**  
-[CVPR 2025](https://arxiv.org/abs/2503.19377) [Code](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm)
+**Interpretable Generative Models through Post-hoc Concept Bottleneck**, CVPR 2025 \
+[[Paper](https://arxiv.org/abs/2503.19377)]  [[Code](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm)]
 
-**Concept Bottleneck Generative Models**  
-[ICLR 2024](https://openreview.net/forum?id=L9U5MJJleF) [Code](https://github.com/prescient-design/CBGM)
+**TIDE: Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation**\
+[[Paper](https://arxiv.org/pdf/2503.07050)]
 
-**Concept Steerers**  
-[Paper](https://arxiv.org/abs/2501.19066) [Code](https://github.com/kim-dahye/steerers)
+**Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations** \
+[[Paper](https://arxiv.org/abs/2501.19066)] [[Code](https://github.com/kim-dahye/steerers)]
 
-**Concept Sliders**  
-[ECCV 2024](https://arxiv.org/abs/TBD) [Code](https://github.com/rohitgandikota/sliders)
+**Show and Tell: Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models**, CVPR 2025 \
+[[Paper](https://arxiv.org/abs/2502.20134)]
 
-**PreciseControl**  
-[ECCV 2024](https://arxiv.org/abs/TBD) [Code](https://github.com/rishubhpar/PreciseControl)
+**Controlling Language and Diffusion Models by Transporting Activations**, ICLR 2025 \
+[[Paper](https://arxiv.org/abs/2410.23054)] [[Code](https://github.com/apple/ml-act)]
 
-**Concept Algebra**  
-[NeurIPS 2023](https://openreview.net/forum?id=SGlrCuwdsB) [Code](https://github.com/zihao12/concept-algebra-code)
+**Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in Text-to-Image Diffusion Models** \
+[[Paper](https://arxiv.org/pdf/2503.09446)] [[Code](https://github.com/NANSirun/Interpret-then-deactivate)]
 
-**Cones: Concept Neurons in Diffusion**  
-[ICML 2023](https://openreview.net/pdf?id=31H0gfU8Ar)
+**Restyling Unsupervised Concept Based Interpretable Networks with Generative Models**, ICLR 2025 \
+[[Paper](https://openreview.net/pdf?id=CexatBp6rx)]
 
-**Controlling Activations**  
-[ICLR 2025](https://arxiv.org/abs/2410.23054) [Code](https://github.com/apple/ml-act)
 
-**Show and Tell: Spatial Bottlenecks**  
-[CVPR 2025](https://arxiv.org/abs/2502.20134)
+## 2024
 
-**Accuracy vs Interpretability**  
-[AAAI 2024](https://arxiv.org/abs/2303.17908)
+**Concept Bottleneck Generative Models**, ICLR 2024 \
+[[Paper](https://openreview.net/forum?id=L9U5MJJleF)] [[Code](https://github.com/prescient-design/CBGM)]
 
----
+**ConceptAttention: Diffusion Transformers Learn Interpretable Features** \
+[[Paper](https://arxiv.org/abs/2502.04320)] [[Code](https://github.com/helblazer811/ConceptAttention)]
 
-## 🔍 Understanding Classifiers with Diffusion Models
+**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**, ECCV 2024 \
+[[Paper](https://arxiv.org/abs/2407.07077)] [[Code](https://github.com/haoosz/ConceptExpress)]
 
-**Your Diffusion Model is Secretly a Zero-Shot Classifier**  
-[ICCV 2023](https://arxiv.org/abs/2303.16203)
+**Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation**, CVPR 2024 \
+[[Paper](https://arxiv.org/abs/2311.17216)]
 
-**Explaining in Diffusion**  
-[CVPR 2025](https://arxiv.org/pdf/2412.18604)
+**PreciseControl: Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control**, ECCV 2024 \
+[[Paper](https://arxiv.org/abs/2408.05083)] [[Code](https://github.com/rishubhpar/PreciseControl)]
 
-**Diffexplainer**  
-[Paper](https://arxiv.org/abs/2404.02618)
+**Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models**, ECCV 2024 \
+[[Paper](https://arxiv.org/abs/2311.12092)] [[Code](https://github.com/rohitgandikota/sliders)]
 
-**Visual Analysis of Diffusion Models**  
-[Paper](https://arxiv.org/abs/2402.10404)
+**Diffexplainer: Towards Cross-modal Global Explanations with Diffusion Models**\
+[[Paper](https://arxiv.org/abs/2404.02618)]
 
-**Understanding Diffusion Models: A Unified Perspective**  
-[Paper](https://arxiv.org/abs/2208.11970)
+**Explaining Generative Diffusion Models via Visual Analysis for Interpretable Decision-making Process** \
+[[Paper](https://arxiv.org/abs/2402.10404)]
 
----
+**STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models**, CVPR 2025 Highlight \
+[[Paper](https://arxiv.org/pdf/2408.16807)] [[Code](https://github.com/koushiksrivats/robust-concept-erasing)]
 
-## 🌈 Concept Discovery & Visualization
+**Trade-offs in Fine-tuned Diffusion Models Between Accuracy and Interpretability** \
+[[Paper](https://arxiv.org/abs/2303.17908)]
 
-**TIDE: Temporal-Aware Sparse Autoencoders**  
-[Paper](https://arxiv.org/pdf/2503.07050)
 
-**ConceptAttention: Interpretable Features in Diffusion Transformers**  
-[Paper](https://arxiv.org/abs/2502.04320) [Code](https://github.com/helblazer811/ConceptAttention)
+## 2023
 
-**ConceptExpress: Unsupervised Concept Extraction**  
-[ECCV 2024 Oral](https://arxiv.org/abs/2407.07077) [Code](https://github.com/haoosz/ConceptExpress)
+**Concept Algebra for (Score-Based) Text-Controlled Generative Models**, NeurIPS 2023 \
+[[Paper](https://openreview.net/forum?id=SGlrCuwdsB)] [[Code](https://github.com/zihao12/concept-algebra-code)]
 
-**Self-Discovering Interpretable Latent Directions**  
-[CVPR 2024](https://arxiv.org/abs/2311.17216)
+**Cones: Concept Neurons in Diffusion Models for Customized Generation**, ICML 2023 Oral \
+[[Paper](https://openreview.net/pdf?id=31H0gfU8Ar)]
 
-**Restyling Unsupervised Concept Networks**  
-[ICLR 2025](https://openreview.net/pdf?id=CexatBp6rx)
+**Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models**, ICCV 2023 \
+[[Paper](https://arxiv.org/pdf/2306.05357)]
 
-**Unsupervised Compositional Concepts**  
-[ICCV 2023](https://arxiv.org/pdf/2306.05357)
+**Your Diffusion Model is Secretly a Zero-Shot Classifier** \
+[[Paper](https://arxiv.org/abs/2303.16203)] [[Code](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)]
 
-**The Hidden Language of Diffusion Models**  
-[ICLR 2024](https://openreview.net/forum?id=awWpHnEJDw)
 
-**GAN Dissection**  
-[ICLR 2019](https://openreview.net/forum?id=Hyg_X2C5FX)
+## 2022 and Earlier
 
-**GANSpace**  
-[NeurIPS 2020](https://arxiv.org/pdf/2004.02546)
+**CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders**, NeurIPS 2022 \
+[[Paper](https://arxiv.org/abs/2106.14843)] [[Code](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)]
 
-**Latent Concepts in BERT**  
-[ICLR 2022](https://openreview.net/forum?id=POTMtpYI1xH)
+**Understanding Diffusion Models: A Unified Perspective**, 2022 \
+[[Paper](https://arxiv.org/abs/2208.11970)]
 
----
+**Discovering Latent Concepts Learned in BERT**, ICLR 2022 \
+[[Paper](https://openreview.net/forum?id=POTMtpYI1xH)] [[Code](https://neurox.qcri.org/projects/bert-concept-net.html)]
 
-## 🧼 Concept Erasing
+**GAN Dissection: Visualizing and Understanding Generative Adversarial Networks**, ICLR 2019 \
+[[Paper](https://openreview.net/forum?id=Hyg_X2C5FX)] [[Code](https://github.com/CSAILVision/gandissect)]
 
-**STEREO: Robust Concept Erasing in Diffusion**  
-[Paper](https://arxiv.org/pdf/2408.16807) [Code](https://github.com/koushiksrivats/robust-concept-erasing)
-
-**Sparse Autoencoder for Concept Erasing**  
-[Paper](https://arxiv.org/pdf/2503.09446) [Code](https://github.com/NANSirun/Interpret-then-deactivate)
-
----
-
-## 🕰️ Temporal Analysis
-
-**Interpretable Diffusion via Information Decomposition**  
-[ICLR 2024](https://arxiv.org/abs/2310.07972)
-
----
-
-## 🛠️ Applications of Explainability
-
-**Concept Distillation**  
-[NeurIPS 2023](https://arxiv.org/pdf/2311.15303)
-
-**ConceptDistil**  
-[ICLR 2022 Workshop](https://arxiv.org/abs/2205.03601)
-
----
-
-## 📚 General Diffusion Resources
-
-- [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
-- [How Stable Diffusion Works](https://stable-diffusion-art.com/how-stable-diffusion-work/)
-- [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
-- [Stable Diffusion Samplers](https://stable-diffusion-art.com/samplers/)
-- [Coding Diffusion from Scratch (YouTube)](https://www.youtube.com/watch?v=ZBKpAp_6TGI)
-- [How Diffusion Models Work (YouTube)](https://www.youtube.com/watch?v=I1sPXkm2NH4)
-- [Autoregressive & Diffusion Paper Survey](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
-- [Transformer Vision: Diffusion Section](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision/blob/main/main/diffusion.md)
-
----
-"""
-
-# Save to a file
-with open("/mnt/data/README.md", "w") as f:
-    f.write(readme_content)
-
-"/mnt/data/README.md"
+**GANSpace: Discovering Interpretable GAN Controls**, NeurIPS 2020 \
+[[Paper](https://arxiv.org/pdf/2004.02546)] [[Code](https://github.com/harskish/ganspace)]
