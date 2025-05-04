@@ -7,6 +7,9 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 
 ## 2025
 
+**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders** \
+[[Paper](https://arxiv.org/abs/2501.18052)]  [[Code](https://github.com/cywinski/SAeUron)]
+
 **Interpretable Generative Models through Post-hoc Concept Bottleneck**, CVPR 2025 \
 [[Paper](https://arxiv.org/abs/2503.19377)]  [[Code](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm)]
 
@@ -28,11 +31,17 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 **Restyling Unsupervised Concept Based Interpretable Networks with Generative Models**, ICLR 2025 \
 [[Paper](https://openreview.net/pdf?id=CexatBp6rx)]
 
+**A General Framework for Inference-time Scaling and
+Steering of Diffusion Models** \
+[[Paper](https://arxiv.org/abs/2501.06848)]  [[Code](https://github.com/zacharyhorvitz/FK-Diffusion-Steering)]
 
 ## 2024
 
 **Concept Bottleneck Generative Models**, ICLR 2024 \
 [[Paper](https://openreview.net/forum?id=L9U5MJJleF)] [[Code](https://github.com/prescient-design/CBGM)]
+
+**Generalization in Diffusion Models Arises from Geometry-adaptive Harmonic Representations**, ICLR 2024 Oral \
+[[Paper](https://arxiv.org/abs/2310.02557)] [[Code](https://github.com/LabForComputationalVision/memorization_generalization_in_diffusion_models)]
 
 **ConceptAttention: Diffusion Transformers Learn Interpretable Features** \
 [[Paper](https://arxiv.org/abs/2502.04320)] [[Code](https://github.com/helblazer811/ConceptAttention)]
@@ -61,8 +70,20 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 **Trade-offs in Fine-tuned Diffusion Models Between Accuracy and Interpretability** \
 [[Paper](https://arxiv.org/abs/2303.17908)]
 
+**Revelio: Interpreting and leveraging semantic information in diffusion models** \
+[[Paper](https://arxiv.org/abs/2411.16725)] [[Code](https://github.com/revelio-diffusion/revelio)]
+
+**Unpacking SDXL Turbo: Interpreting Text-to-Image Models with Sparse Autoencoders** \
+[[Paper](https://arxiv.org/abs/2410.22366)] [[Code](https://github.com/surkovv/sdxl-unbox)]
+
+**Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering** \
+[[Paper](https://arxiv.org/abs/2409.02426)] [[Code](https://github.com/huijieZH/Diffusion-Model-Generalizability)]
+
 
 ## 2023
+
+**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models**, SIGGRAPH 2023 \
+[[Paper](https://arxiv.org/abs/2301.13826)] [[Code](https://github.com/yuval-alaluf/Attend-and-Excite)]
 
 **Concept Algebra for (Score-Based) Text-Controlled Generative Models**, NeurIPS 2023 \
 [[Paper](https://openreview.net/forum?id=SGlrCuwdsB)] [[Code](https://github.com/zihao12/concept-algebra-code)]
@@ -78,6 +99,9 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 
 
 ## 2022 and Earlier
+
+**What the DAAM: Interpreting Stable Diffusion Using Cross Attention** \
+[[Paper](https://arxiv.org/abs/2210.04885)] [[Code](https://github.com/castorini/daam)]
 
 **CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders**, NeurIPS 2022 \
 [[Paper](https://arxiv.org/abs/2106.14843)] [[Code](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)]
