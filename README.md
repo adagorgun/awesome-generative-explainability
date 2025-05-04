@@ -83,6 +83,17 @@ Steering of Diffusion Models** \
 [[Paper](https://arxiv.org/abs/2409.02426)] [[Code](https://github.com/huijieZH/Diffusion-Model-Generalizability)]
 
 
+**Discovering interpretable directions in the semantic latent space of diffusion models** \
+[[Paper](https://arxiv.org/abs/2303.11073)] 
+
+**Exploring low-dimensional subspaces in diffusion models for controllable image editing** \
+[[Paper](https://arxiv.org/abs/2409.02374)] [[Code](https://github.com/ChicyChen/LOCO-Edit)]
+
+**Unified concept editing in diffusion models**, WACV 2024 \
+[[Paper](https://arxiv.org/abs/2308.14761)] [[Code](https://github.com/rohitgandikota/unified-concept-editing)]
+
+
+
 ## 2023
 
 **Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models**, SIGGRAPH 2023 \
@@ -99,6 +110,12 @@ Steering of Diffusion Models** \
 
 **Your Diffusion Model is Secretly a Zero-Shot Classifier** \
 [[Paper](https://arxiv.org/abs/2303.16203)] [[Code](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)]
+
+**Diffusion models already have a semantic latent space**, ICLR 2023 \
+[[Paper](https://arxiv.org/abs/2210.10960)] [[Code](https://github.com/kwonminki/Asyrp_official)]
+
+**Understanding the latent space of diffusion models through the lens of riemannian geometry**, NeurIPS 2023 \
+[[Paper](https://arxiv.org/abs/2307.12868)] [[Code](https://github.com/enkeejunior1/Diffusion-Pullback)]
 
 
 ## 2022 and Earlier
