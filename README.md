@@ -7,6 +7,9 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 
 ## 2025
 
+**Emergence and Evolution of Interpretable Concepts in Diffusion Models** \
+[[Paper](https://arxiv.org/abs/2504.15473)] 
+
 **SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders** \
 [[Paper](https://arxiv.org/abs/2501.18052)]  [[Code](https://github.com/cywinski/SAeUron)]
 
