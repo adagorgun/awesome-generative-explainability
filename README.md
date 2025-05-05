@@ -92,7 +92,8 @@ Steering of Diffusion Models** \
 **Unified concept editing in diffusion models**, WACV 2024 \
 [[Paper](https://arxiv.org/abs/2308.14761)] [[Code](https://github.com/rohitgandikota/unified-concept-editing)]
 
-
+**Interpreting the Weight Space of Customized Diffusion Models**, NeurIPS 2024 \
+[[Paper](https://arxiv.org/abs/2406.09413)] [[Code](https://github.com/snap-research/weights2weights)]
 
 ## 2023
 
@@ -117,8 +118,14 @@ Steering of Diffusion Models** \
 **Understanding the latent space of diffusion models through the lens of riemannian geometry**, NeurIPS 2023 \
 [[Paper](https://arxiv.org/abs/2307.12868)] [[Code](https://github.com/enkeejunior1/Diffusion-Pullback)]
 
+**Emergent Correspondence from Image Diffusion**, NeurIPS 2023 \
+[[Paper](https://arxiv.org/abs/2306.03881)] [[Code](https://github.com/Tsingularity/dift)]
+
 
 ## 2022 and Earlier
+
+**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** \
+[[Paper](https://arxiv.org/abs/2208.01618)] [[Code](https://github.com/rinongal/textual_inversion)]
 
 **What the DAAM: Interpreting Stable Diffusion Using Cross Attention** \
 [[Paper](https://arxiv.org/abs/2210.04885)] [[Code](https://github.com/castorini/daam)]
