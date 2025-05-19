@@ -7,6 +7,9 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 
 ## 2025
 
+**No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves** \
+[[Paper](https://arxiv.org/abs/2505.02831)]  [[Code](https://github.com/vvvvvjdy/SRA)]
+
 **Emergence and Evolution of Interpretable Concepts in Diffusion Models** \
 [[Paper](https://arxiv.org/abs/2504.15473)] 
 
@@ -34,11 +37,22 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 **Restyling Unsupervised Concept Based Interpretable Networks with Generative Models**, ICLR 2025 \
 [[Paper](https://openreview.net/pdf?id=CexatBp6rx)]
 
-**A General Framework for Inference-time Scaling and
-Steering of Diffusion Models** \
+**A General Framework for Inference-time Scaling and Steering of Diffusion Models** \
 [[Paper](https://arxiv.org/abs/2501.06848)]  [[Code](https://github.com/zacharyhorvitz/FK-Diffusion-Steering)]
 
 ## 2024
+
+**Understanding Hallucinations in Diffusion Models through Mode Interpolation**, NeurIPS 2024 \
+[[Paper](https://arxiv.org/abs/2406.09358)]  [[Code](https://github.com/locuslab/diffusion-model-hallucination)]
+
+**Revelio: Interpreting and leveraging semantic information in diffusion models** \
+[[Paper](https://arxiv.org/abs/2411.16725)] [[Code](https://github.com/revelio-diffusion/revelio)]
+
+**Explainable Generative AI (GenXAI): A Survey, Conceptualization, and Research Agenda** \
+[[Paper](https://arxiv.org/abs/2404.09554)]
+
+**Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models** \
+[[Paper](https://arxiv.org/abs/2410.07884)]
 
 **Concept Bottleneck Generative Models**, ICLR 2024 \
 [[Paper](https://openreview.net/forum?id=L9U5MJJleF)] [[Code](https://github.com/prescient-design/CBGM)]
