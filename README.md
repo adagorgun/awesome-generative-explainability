@@ -7,6 +7,10 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 
 ## 2025
 
+**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**, ICLR 2025 \
+[[Paper](https://arxiv.org/abs/2411.07232)]  [[Code](https://github.com/NVlabs/addit)]
+
+
 **No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves** \
 [[Paper](https://arxiv.org/abs/2505.02831)]  [[Code](https://github.com/vvvvvjdy/SRA)]
 
@@ -41,6 +45,22 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 [[Paper](https://arxiv.org/abs/2501.06848)]  [[Code](https://github.com/zacharyhorvitz/FK-Diffusion-Steering)]
 
 ## 2024
+
+**Training-Free Layout Control with Cross-Attention Guidance**, WACV 2024 \
+[[Paper](https://arxiv.org/abs/2304.03373)]  [[Code](https://github.com/silent-chen/layout-guidance)]
+
+**Understanding Hallucinations in Diffusion Models through Mode Interpolation**, NeurIPS 2024 \
+[[Paper](https://arxiv.org/abs/2406.09358)]  [[Code](https://github.com/locuslab/diffusion-model-hallucination)]
+
+**Unified Concept Editing in Diffusion Models**, WACV 2024 \
+[[Paper](https://arxiv.org/abs/2308.14761)]  [[Code](https://github.com/rohitgandikota/unified-concept-editing)]
+
+**Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models**, ECCV 2024 \
+[[Paper](https://arxiv.org/abs/2407.12383)]  [[Code](https://github.com/CharlesGong12/RECE)]
+
+
+**Exploring Diffusion Time-steps for Unsupervised Representation Learning**, ICLR 2024 \
+[[Paper](https://arxiv.org/abs/2401.11430)]  [[Code](https://github.com/yue-zhongqi/diti)]
 
 **Understanding Hallucinations in Diffusion Models through Mode Interpolation**, NeurIPS 2024 \
 [[Paper](https://arxiv.org/abs/2406.09358)]  [[Code](https://github.com/locuslab/diffusion-model-hallucination)]
@@ -110,6 +130,15 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 [[Paper](https://arxiv.org/abs/2406.09413)] [[Code](https://github.com/snap-research/weights2weights)]
 
 ## 2023
+
+**Diffusion Self-Guidance for Controllable Image Generation**, NeurIPS 2023 \
+[[Paper](https://arxiv.org/abs/2306.00986)] [[Code](https://dave.ml/selfguidance/)]
+
+**Null-text Inversion for Editing Real Images using Guided Diffusion Models**, CVPR 2023 \
+[[Paper](https://arxiv.org/abs/2211.09794)] [[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
+
+**Prompt-to-Prompt Image Editing with Cross Attention Control**, ACL 2023 \
+[[Paper](https://arxiv.org/abs/2208.01626)] [[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
 
 **Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models**, SIGGRAPH 2023 \
 [[Paper](https://arxiv.org/abs/2301.13826)] [[Code](https://github.com/yuval-alaluf/Attend-and-Excite)]
