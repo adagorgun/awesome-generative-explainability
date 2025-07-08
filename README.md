@@ -7,9 +7,11 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 
 ## 2025
 
+**Decoding Vision Transformers: the Diffusion Steering Lens**, CVPRW on MI 2025 \
+[[Paper](https://arxiv.org/abs/2504.13763)] 
+
 **Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**, ICLR 2025 \
 [[Paper](https://arxiv.org/abs/2411.07232)]  [[Code](https://github.com/NVlabs/addit)]
-
 
 **No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves** \
 [[Paper](https://arxiv.org/abs/2505.02831)]  [[Code](https://github.com/vvvvvjdy/SRA)]
@@ -45,6 +47,12 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 [[Paper](https://arxiv.org/abs/2501.06848)]  [[Code](https://github.com/zacharyhorvitz/FK-Diffusion-Steering)]
 
 ## 2024
+
+**Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines**, ACL 2024 \
+[[Paper](https://arxiv.org/abs/2403.05846)]  [[Code](https://github.com/tokeron/DiffusionLens)]
+
+**Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models**, FG 2024 \
+[[Paper](https://arxiv.org/abs/2303.11073)]  [[Code](https://github.com/JonasLoos/h-space-directions)]
 
 **Training-Free Layout Control with Cross-Attention Guidance**, WACV 2024 \
 [[Paper](https://arxiv.org/abs/2304.03373)]  [[Code](https://github.com/silent-chen/layout-guidance)]
