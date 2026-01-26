@@ -5,7 +5,41 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 
 ---
 
+## 2026
+
+**Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions**, ICLR 2026 
+
+**Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models**, WACV 2026 
+
 ## 2025
+
+**Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps**, CVPR 2025 
+
+**Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think**, 2025 
+
+**Adapting Self-Supervised Representations as a Latent Space for Efficient Generation**, 2025 
+
+**Progressive Compositionality in Text-to-Image Generative Models**, ICLR 2025 
+
+**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**, WACV 2025 
+
+**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**, ICLR 2025 
+
+**LumiCtrl: Learning Illuminant Prompts for Lighting Control in Personalized Text-to-Image Models**, 2025 
+
+**Emergent Temporal Correspondences from Video Diffusion Transformers**, NeurIPS 2025 
+
+**Understanding Attention Mechanism in Video Diffusion Models**, 2025 
+
+**Emergent Temporal Correspondences from Video Diffusion Transformers**, NeurIPS 2025 
+
+**DeLeaker: Dynamic Inference-Time Reweighting for Semantic Leakage Mitigation in Text-to-Image Models**, 2025
+
+**RefAM: Attention Magnets for Zero-Shot Referral Segmentation**, 2025 
+
+**Make It Count: Text-to-Image Generation with an Accurate Number of Objects**, CVPR 2025
+
+**Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models**, ICLR 2025 
 
 **Decoding Vision Transformers: the Diffusion Steering Lens**, CVPRW on MI 2025 \
 [[Paper](https://arxiv.org/abs/2504.13763)] 
@@ -47,6 +81,14 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 [[Paper](https://arxiv.org/abs/2501.06848)]  [[Code](https://github.com/zacharyhorvitz/FK-Diffusion-Steering)]
 
 ## 2024
+
+**Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models**, ICLR 2024 
+
+**Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis**, NeurIPS 2024 
+
+**Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference**, NeurIPS 2024 
+
+**Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model**, NeurIPS 2024 
 
 **Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines**, ACL 2024 \
 [[Paper](https://arxiv.org/abs/2403.05846)]  [[Code](https://github.com/tokeron/DiffusionLens)]
@@ -138,6 +180,8 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 [[Paper](https://arxiv.org/abs/2406.09413)] [[Code](https://github.com/snap-research/weights2weights)]
 
 ## 2023
+
+**A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**, NeurIPS 2023 
 
 **Diffusion Self-Guidance for Controllable Image Generation**, NeurIPS 2023 \
 [[Paper](https://arxiv.org/abs/2306.00986)] [[Code](https://dave.ml/selfguidance/)]
