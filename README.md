@@ -7,11 +7,25 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 
 ## 2026
 
+**Image Generation from Contextually Contradictory Prompts**, CVPR 2026
+
+**When Do Diffusion Models learn to Generate Multiple Objects?**, ICML 2026
+
+**Enhancing MMDiT-Based Text-to-Image Models for Similar Subject Generation**, TPAMI 2026
+
+**Diff-Aid: Inference-time Adaptive Interaction Denoising for Rectified Text-to-Image Generation**, 2026
+
+**Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion**, 2026
+
 **Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions**, ICLR 2026 
 
 **Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models**, WACV 2026 
 
 ## 2025
+
+**ABE-CLIP: Training-Free Attribute Binding Enhancement for Compositional Image-Text Matching**, 2025
+
+**What Drives Compositional Generalization? The Importance of Continuous Training Objectives in Visual Generative Models**, 2025
 
 **Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps**, CVPR 2025 
 
