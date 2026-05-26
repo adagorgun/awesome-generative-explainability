@@ -7,6 +7,10 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 
 ## 2026
 
+**Diagnosing and Correcting Concept Omission in Multimodal Diffusion Transformers**, ICML 2026
+
+**SHIFT: Steering Hidden Intermediates in Flow Transformers**, 2026
+
 **Image Generation from Contextually Contradictory Prompts**, CVPR 2026
 
 **When Do Diffusion Models learn to Generate Multiple Objects?**, ICML 2026
@@ -22,6 +26,8 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 **Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models**, WACV 2026 
 
 ## 2025
+
+**Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers**, NeurIPS 2025
 
 **ABE-CLIP: Training-Free Attribute Binding Enhancement for Compositional Image-Text Matching**, 2025
 
