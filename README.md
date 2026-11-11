@@ -73,6 +73,9 @@ As generative AI continues to evolve, understanding *how* and *why* these models
 **Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models**, WACV 2026  
 [[Paper](https://arxiv.org/abs/2503.09864)] [[Project](https://hecoding.github.io/colorwave-page/)]
 
+**Empirical Analysis of Decoding Biases in Masked Diffusion Models**, ACL 2026 Oral\
+[[Paper](https://aclanthology.org/2026.acl-long.311/)] [[Code](https://github.com/NEUIR/Uncode)] [[Project](https://passionate11.github.io/Uncode-project-page/)]
+
 ## 2025
 
 **Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers**, NeurIPS 2025  
